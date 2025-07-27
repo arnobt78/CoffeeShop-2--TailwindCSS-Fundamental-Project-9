@@ -1,5 +1,5 @@
 
-# Coffee Shop 2 - React-vite TailwindCSS Project ☕️
+# Coffee Shop 2 - React-Vite TailwindCSS Project ☕️
 
 ![Screenshot 2025-07-28 at 00 31 25](https://github.com/user-attachments/assets/fb885ac2-9e72-4630-a2f9-8e7e1dd526d6)
 ![Screenshot 2025-07-28 at 00 32 10](https://github.com/user-attachments/assets/7775e932-35b6-4912-a5e9-46ec7bde2f52)
