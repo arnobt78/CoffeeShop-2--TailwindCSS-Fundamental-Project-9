@@ -12,7 +12,7 @@ A modern, responsive coffee shop landing page built with React, Vite, and Tailwi
 
 - **Live Demo:** [https://coffeelover-cafe.netlify.app/](https://coffeelover-cafe.netlify.app/)
 
-*Note: Checkout my other design of Coffee Shop Template:*
+*Note: View my Coffee Shop 1 template for another showcase of my design and development skills:*
 
 - **Live Demo:** [https://coffeeshop-arnob.vercel.app/](https://coffeeshop-arnob.vercel.app/)
 - **GitHub Repo:** [https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7](https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7)
