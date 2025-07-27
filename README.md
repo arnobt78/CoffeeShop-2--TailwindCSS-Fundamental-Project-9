@@ -1,7 +1,10 @@
 
 # Coffee Shop 2 - React-vite TailwindCSS Project ☕️
 
-<img width="1226" height="664" alt="Screenshot 2025-07-28 at 00 31 25" src="https://github.com/user-attachments/assets/fb885ac2-9e72-4630-a2f9-8e7e1dd526d6" /> <img width="1464" height="696" alt="Screenshot 2025-07-28 at 00 32 10" src="https://github.com/user-attachments/assets/7775e932-35b6-4912-a5e9-46ec7bde2f52" /> <img width="1464" height="734" alt="Screenshot 2025-07-28 at 00 32 32" src="https://github.com/user-attachments/assets/a4d2ebc3-abc2-433a-aa57-080d53d7ed8f" /> <img width="1464" height="743" alt="Screenshot 2025-07-28 at 00 33 23" src="https://github.com/user-attachments/assets/05d561da-f8d3-4011-85f0-90c7014ee965" />
+![Screenshot 2025-07-28 at 00 31 25](https://github.com/user-attachments/assets/fb885ac2-9e72-4630-a2f9-8e7e1dd526d6)
+![Screenshot 2025-07-28 at 00 32 10](https://github.com/user-attachments/assets/7775e932-35b6-4912-a5e9-46ec7bde2f52)
+![Screenshot 2025-07-28 at 00 32 32](https://github.com/user-attachments/assets/a4d2ebc3-abc2-433a-aa57-080d53d7ed8f)
+![Screenshot 2025-07-28 at 00 33 23](https://github.com/user-attachments/assets/05d561da-f8d3-4011-85f0-90c7014ee965)
 
 ---
 
@@ -9,10 +12,10 @@ A modern, responsive coffee shop landing page built with React, Vite, and Tailwi
 
 - **Live Demo:** [https://coffeelover-cafe.netlify.app/](https://coffeelover-cafe.netlify.app/)
 
-*Note: Checkout my other design of Coffee Shop Template:
+*Note: Checkout my other design of Coffee Shop Template:*
+
 - **Live Demo:** [https://coffeeshop-arnob.vercel.app/](https://coffeeshop-arnob.vercel.app/)
-- **Repo:** https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7
-*
+- **GitHub Repo:** [https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7](https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7)
 
 ---
 
